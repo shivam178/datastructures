@@ -41,19 +41,19 @@ class Queue {
   }
 }
 
-let que = new Queue();
-que.push(1);
-que.push(2);
-que.push(3);
-que.push(4);
+// let que = new Queue();
+// que.push(1);
+// que.push(2);
+// que.push(3);
+// que.push(4);
 
-console.log(que.getLast());
+// console.log(que.getLast());
 
-que.pop();
-console.log(que.getLast());
-console.log(que.getQueue());
-que.pop();
-que.pop();
-que.pop();
-console.log(que.getQueue());
-console.log(que.getLast());
+// que.pop();
+// console.log(que.getLast());
+// console.log(que.getQueue());
+// que.pop();
+// que.pop();
+// que.pop();
+// console.log(que.getQueue());
+// console.log(que.getLast());
