@@ -23,9 +23,9 @@ function iterativeBinarySearch(arr, isSorted, searchNo) {
   return null;
 }
 
-const arr1 = [1, 2, 4, 56, 66, 100, 123];
-const arr2 = [1, 21, 4, 56, 606, 1000, 123];
+// const arr1 = [1, 2, 4, 56, 66, 100, 123];
+// const arr2 = [1, 21, 4, 56, 606, 1000, 123];
 
-console.log(iterativeBinarySearch(arr1, true, 100));
-console.log(iterativeBinarySearch(arr2, false, 1000));
-console.log(iterativeBinarySearch(arr2, false, 4));
+// console.log(iterativeBinarySearch(arr1, true, 100));
+// console.log(iterativeBinarySearch(arr2, false, 1000));
+// console.log(iterativeBinarySearch(arr2, false, 4));
