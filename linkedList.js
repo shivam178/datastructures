@@ -131,15 +131,15 @@ class LinkedList {
   }
 }
 
-let list = new LinkedList();
-list.add(20);
-list.add(21);
-list.add(22);
-list.removeFrom(1);
-list.printList();
-console.log("");
-list.insertAt(21, 2);
-list.printList();
-console.log("");
-list.removeElement(20);
-list.printList();
+// let list = new LinkedList();
+// list.add(20);
+// list.add(21);
+// list.add(22);
+// list.removeFrom(1);
+// list.printList();
+// console.log("");
+// list.insertAt(21, 2);
+// list.printList();
+// console.log("");
+// list.removeElement(20);
+// list.printList();
